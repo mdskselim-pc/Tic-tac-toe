@@ -4,7 +4,7 @@ A simple Tic tac toe game. You can play in local computer
 
 ##  Screenshot
 
-![Screenshot](Screenshot\Tic-Tac-Toe.png)
+![Screenshot](Screenshot/Tic-Tac-Toe.png)
 
 ## Live Demo
 
@@ -44,7 +44,7 @@ Tic Tac Toe is a 2-player game played on a 3 × 3 grid. Players take turns placi
 
 ## Folder Structure
 
-\`\`\`
+\`\`\`  
 Tic tac toe/  
 ├── index.html  
 ├── style.css  
