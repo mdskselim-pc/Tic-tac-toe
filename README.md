@@ -4,7 +4,7 @@ A simple Tic tac toe game. You can play in local computer
 
 ##  Screenshot
 
-![Screenshot](Screenshot\Tic Tac Toe.png)
+![Screenshot](Screenshot\Tic-Tac-Toe.png)
 
 ## Live Demo
 
@@ -26,16 +26,16 @@ A simple Tic tac toe game. You can play in local computer
 
 ### Installation
 
-\`\`\`bash
+\`\`\` bash
 git clone https://github.com/mdskselim-pc/Tic-tac-toe.git  
 cd Tic tac toe  
-npm install
+npm install  
 \`\`\`
 
 ### Running the project
 
-\`\`\`bash
-npm start
+\`\`\`  bash
+npm start  
 \`\`\`
 
 ## How to Play 
@@ -45,10 +45,10 @@ Tic Tac Toe is a 2-player game played on a 3 × 3 grid. Players take turns placi
 ## Folder Structure
 
 \`\`\`
-Tic tac toe/
-├── index.html
-├── style.css
-├── script.js
-└── Screenshot/  
-    └──Tic tac toe.png
+Tic tac toe/  
+├── index.html  
+├── style.css  
+├── script.js  
+└── Screenshot/    
+    └──Tic tac toe.png  
 \`\`\`
